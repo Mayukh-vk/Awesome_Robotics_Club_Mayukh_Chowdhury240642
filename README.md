@@ -1,1 +1,2 @@
-# Awesome_Robotics_Club_Mayukh_Chowdhury240642
+# TASK 2
+Hello there.I am Mayukh ,and my top two preferences for the Summer Project were Autonomous Navigation and Ball Balancing bot.My interest lies more on the software side of robotics , plus I wanted to have a better understanding of ros.So I chose Autonomous Navigation, which, I am sure, will help me with this.Honestly ,I have little idea about details of path planning,LIDAR, SLAM and thus want to work on them.For my second preference, i chose Ball Balancing Bot to work with and explore Computer Vision and PID algorithms. There will also be CAD designing involved ,hopefully!
